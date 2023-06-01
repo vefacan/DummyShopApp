@@ -13,7 +13,7 @@ This project is a dummy shop application using the Retrofit library. This is the
 |  Products Screen   | 
 |  Product Detail Screen     |
   
-  # an Important Note
+  # Important Note
   
   You can use "kminchelle" and "0lelplR" for login screen
   
