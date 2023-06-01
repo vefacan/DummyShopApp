@@ -23,7 +23,7 @@ This project is a dummy shop application using the Retrofit library. This is the
   
 # Libraries and Versions
   
- Glide <p>
+  <b> Glide </b> <p>
  implementation 'com.github.bumptech.glide:glide:4.15.1
   <p>
  Retrofit <p>
