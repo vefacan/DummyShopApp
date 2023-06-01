@@ -25,7 +25,7 @@ This project is a dummy shop application using the Retrofit library. This is the
   
  Glide <p>
  implementation 'com.github.bumptech.glide:glide:4.15.1
-  
+  <p>
  Retrofit <p>
  implementation group: 'com.squareup.retrofit2', name: 'retrofit', version: '2.9.0'<p>
  implementation group: 'com.squareup.retrofit2', name: 'converter-gson', version: '2.9.0'
